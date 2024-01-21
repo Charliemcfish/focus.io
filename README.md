@@ -44,7 +44,7 @@ Welcome to **Focus.io**, your all-in-one productivity and focus-enhancing web ap
 
 ## Getting Started:
 
-1.  Visit [Focus.io](https://chat.openai.com/c/02f68ab4-c7df-41a7-92ad-749175b5d160#) in your web browser.
+1.  Visit [Focus.io](https://focusio.netlify.app/) in your web browser.
 2.  Explore the LoFi Music Player, choose your preferred mood, and start the Focus Timer.
 3.  Use the LoFi Soundboard to create a personalized work environment.
 4.  Manage your tasks with the Integrated To-Do List.
